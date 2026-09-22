@@ -1,0 +1,11 @@
+#orange-book {
+    width: 150px;
+    height: 250px;
+    background-color: rgb(221, 101, 2);
+}
+
+#book-top {
+    width: 180px
+    height: 20px
+    background-color: gainsboro;
+}
